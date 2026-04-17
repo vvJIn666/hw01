@@ -3,6 +3,7 @@
 using namespace std;
 
 int main() {
-    // Your printing code should go here
+    cout << "HELLO" << endl;
+
     return 0;
 }
